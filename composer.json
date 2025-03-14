@@ -1,11 +1,11 @@
 {
-    "name": "drupal/bot_config_fix",
-    "description": "Fix config entity",
+    "name": "backofficethinking/bot_config_fix",
+    "description": "Fix config entity drupal issue https://www.drupal.org/project/drupal/issues/2916266",
     "type": "drupal-custom-module",
     "authors": [
         {
-            "name": "Andrew Yoon",
-            "email": "ayoon@backofficethinking.com"
+            "name": "Rebecca Shevrin / junaidpv",
+            "email": "rshevrin@backofficethinking.com"
         }
     ]
 }
