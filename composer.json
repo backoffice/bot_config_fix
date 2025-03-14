@@ -1,0 +1,11 @@
+{
+    "name": "drupal/bot_config_fix",
+    "description": "Fix config entity",
+    "type": "drupal-custom-module",
+    "authors": [
+        {
+            "name": "Andrew Yoon",
+            "email": "ayoon@backofficethinking.com"
+        }
+    ]
+}

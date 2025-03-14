@@ -1,0 +1,7 @@
+services:
+  bot_config_fix.commands:
+    class: \Drupal\bot_config_fix\Commands\UpdateCommands
+    arguments:
+      - '@keyvalue'
+    tags:
+      - { name: drush.command }
